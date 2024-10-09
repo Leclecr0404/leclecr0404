@@ -77,6 +77,3 @@ Rust                     1 repo              █░░░░░░░░░░�
 
  Last Updated on 08/10/2024 18:42:34 UTC
 <!--END_SECTION:waka-->
-
-#### 🎵 &nbsp;**Spotify playing**  
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=e5y1o4x7kdt9kf2blu4wvmb4s&unique={true|1|on|yes})
