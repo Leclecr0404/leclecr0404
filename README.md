@@ -4,3 +4,4 @@
 - 🌱 I’m currently learning Rust,Microservices and so on.
 - 👯 I’m looking to collaborate on development regardless of language or other else.
 - 💬 Ask me at any time.
+- 🌞 know more about me. 👉 https://bellingham07.github.io/bblog/#/
