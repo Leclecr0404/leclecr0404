@@ -25,6 +25,6 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=go,rust,mysql,postgres,aws,nginx,redis,docker,kubernetes,git,graphql,kafka,linux,vue&perline=7" />
+    <img src="https://skillicons.dev/icons?i=go,rust,mysql,postgres,nginx,redis,docker,kubernetes,git,graphql,kafka,linux,vue,aws&perline=6" />
   </a>
 </p>
