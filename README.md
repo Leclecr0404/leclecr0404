@@ -10,13 +10,13 @@
 
 <br />
 
-<a href="https://github.com/bellingham07#gh-light-mode-only">
-<img align="right" width="450" src="https://github-readme-stats.vercel.app/api?username=bellingham07/>
+<a href="https://github.com/leclecr0404#gh-light-mode-only">
+<img align="right" width="450" src="https://github-readme-stats.vercel.app/api?username=leclecr0404/>
 </a>
 
 
-<a href="https://github.com/bellingham07#gh-dark-mode-only">
-<img align="right" width="450" src="https://github-readme-stats.vercel.app/api?username=bellingham07&theme=dark"/>
+<a href="https://github.com/leclecr0404#gh-dark-mode-only">
+<img align="right" width="450" src="https://github-readme-stats.vercel.app/api?username=leclecr0404&theme=dark"/>
 </a>
 
 <br />
